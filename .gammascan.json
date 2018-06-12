@@ -1,0 +1,27 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.97:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "gamma123"
+	},
+	"repositories": [{
+			"repository": {
+				"uid": "1c027807ace7ccbd1d93e0e71dd10d11",
+				"projectName": "Jenkins-SourceCodeBaseDirectory",
+				"sources": {
+					"baseDir": "$WORKSPACE"
+				}
+			},
+			"dataDir": "C:\\ProgramData\\Gamma\\gamma_data\\PHPUnit",
+			"modules": {
+				"codeissues": [{
+						"name": "phpcs"
+					},
+          {
+						"name": "phpmd"
+					}
+				]
+			}
+		}
+	]
+}
