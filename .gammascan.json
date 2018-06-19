@@ -1,6 +1,6 @@
 {
 	"gammaAccess": {
-		"url": "http://localhost:3000",
+		"url": "http://192.168.2.97:3000",
 		"userName": "chandrashekhar.bhosale@acellere.com",
 		"password": "gamma123"
 	},
